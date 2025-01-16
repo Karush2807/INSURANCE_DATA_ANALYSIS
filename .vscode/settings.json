@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "name": "internCRM SQL",
+            "driver": "MySQL",
+            "server": "localhost",
+            "port": 33060,
+            "database": "SQL Basics Questions",
+            "username": "root",
+            "password": "Luv@2807"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "insuranaceANALYSIS",
+            "database": "demo",
+            "username": "root",
+            "password": "Luv@2807",
+            "connectionTimeout": 30
+        }
+    ]
+}
